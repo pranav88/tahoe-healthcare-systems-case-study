@@ -1,2 +1,2 @@
-## About 
-- This is a solution that i implemented for the tahoe healthcare systems case study , my solution included penalized regression and involved calculating Elders Risk assessment score . The ipynb notebook contains the code and calculations for the same. The presentation added also explains what was carried out.The pdf contains the case description in detail.
+## Case 
+- This is a solution that i implemented for the tahoe healthcare systems case study , my solution included penalized regression and involved calculating Elders Risk assessment score . The ipynb notebook contains the code and calculations for the same. The presentation added also explains what was carried out.The solution is aimed towards reducing the readmission rate at tahoe. Tahoe Healthcare were incuring a huge loss through penalties from the government owing to their high readmission rate .
